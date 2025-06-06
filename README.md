@@ -16,3 +16,6 @@ To boost Vrinda store sales:
 - Target **women aged 30–49**  
 - Focus marketing in **Maharashtra, Karnataka, and Uttar Pradesh**  
 - Leverage **Amazon, Flipkart, and Myntra** for ads, offers, and coupons
+
+## 📊 Screenshot
+Show what the dashboard looks like. - ![Dashboard Preview](virnda_dashboard.png)
